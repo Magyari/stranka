@@ -7,20 +7,12 @@ A super simple responsive portfolio template. It's only a single page because he
 you don't need a half dozen pages to make your point.
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-n33.co @n33co dribbble.com/n33
+Upravené Jozefom Magyarim
 
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
